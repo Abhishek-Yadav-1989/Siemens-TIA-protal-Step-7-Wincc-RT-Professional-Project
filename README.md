@@ -1,2 +1,2 @@
 # Siemens TIA portal Step-7 WinCC RT Advanced Projects
-The Project is created on Siemens TIA portal Step 7 Wincc RT Advanced Software
+Automating the hydroelectric power plant by Siemens TIA portal Step 7 Wincc RT Advanced. This project is based on controlling of baffle and flow of oil from the oil pump Variable frequency device(VFD) in order to maintain the rotor temperature of the generator and to generate stable electricity. This project is also designed with alarm safety that is there are seven-alarm conditions that include an emergency stop.
