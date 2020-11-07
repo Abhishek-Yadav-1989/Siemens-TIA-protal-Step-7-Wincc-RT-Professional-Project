@@ -1,0 +1,27 @@
+þÿÿÿ£###id###VisulizationRootBrowsableId###TargetIdNameDisplayName-###SearchableNonTechnicalFieldNamesOfDocument###ParentIds###ImmediateParentId###ReferenceFieldIds###ReconstitutionDataIDAssociatedCultureFieldIdAssociatedProjectVersion!AssociatedIndexDataVersionFieldId,AssociatedTechnicalFieldNamesHashCodeFieldId-AssociatedTechnicalFieldContentVersionFieldIdIndexAtomStoreCommentDatatypeValue###SearchFilterIdsTitleLanguageVersionConstant nameEvent class###UpdatableParentIdInterfaceMember_NameInterfaceMember_DatatypeInterfaceMember_ValueInterfaceMember_CommentNetwork titleLADFBD CodeAddressSCL CodeInstance DBText.0Text.1Text.2
+AlarmClassAuthorFamilyUser-defined IDAcknowledgementModelAlarmAlertAcknowledgementIdAcknowledgedText
+ComingTextComingGoingText	GoingText	Alignment	CycleUnitStartingPointDayStartingPointHourStartingPointMinuteStartingPointMonthStartingPointSecond	CycleTimeNumber	ShortNameWebLanguageStartScreen
+LogoutTimeDataTypeHmiDataTypeCodeCommonAlarmClassStationNamePartnerNameNodeName	BackColor	GridColorBackFillStyleBarBackColorBarColorBorderBrightColor3DBorderInnerStyle3DBorderOuterStyle3DBorderShadeColor3DCaption
+FocusColorFont	ForeColor
+LabelColorPositionFontThumbBackColor	TickStyleBorderBackColorBorderColorCornerStyle	EdgeStyleFontNameHorizontalAlignmentLineEndShapeStyleTextBackFlashingColorOffBackFlashingColorOnBackFlashingRateBorderFlashingColorOffBorderFlashingColorOnBorderFlashingRateFillingDirectionFillPatternColorFlashingFlashingColorOffFlashingColorOnFlashingRateModePictureAlignmentTextOrientation"TransparentColorDeactivatedPictureTransparentColorPictureOffTransparentColorPictureOnVerticalAlignmentStyleSettingsTextOffToolTipTextTagAddressPanelInfoAddressAccessModeCoding
+ConnectionPlcNameControllerTagLimitHighConstantLimitLowConstant
+StartValueSubstituteValueUITypeEditorBitPositionUITypeEditorStartvalueUITypeEditorEndvalueUITypeEditorTagExpression	FunctionsAboveUpperLimitColorBelowLowerLimitColor
+DataFormatFormatPatternUnitPropertyNameTagValueForPropertyTagPageTriggerModeDisplaySuppressionMask
+TriggerTag
+AlarmText1AlarmAlertAcknowledgementTagColumnScrollbarColumnTitleAlignmentControlDesignModeDefaultSortDefaultSort2DefaultSort2ColumnDisplayOptionsDoubleClickActionExportDelimiterExportDirectorynameExportFilenameExportFormatExportFormatGuidExportSelectionGridLineColorHitListDefaultSortHitListRelTimeFactorTypeLayer	LineColorMessageListTypeRowScrollbarRowTitleAlignmentRTPersistenceRTPersistenceTypeSelectedCellColorSelectedCellForeColorSelectedRowColorSelectedRowForeColorSelectedTitleColorSelectedTitleForeColorSelectionColoringSelectionRectSelectionRectColorSelectionType	ShowTitleSortSequenceStatusbarBackColorStatusbarFontStatusbarFontColor
+TableColorTableColor2TableForeColorTableForeColor2TimeBase
+TitleColorTitleDarkShadowColorTitleForeColorTitleGridLineColorTitleLightShadowColor	TitleSort
+TitleStyleToolbarAlignmentToolbarBackColor
+DateFormatSortDirectionSortDirectionInHitlist
+TimeFormatLabelTooltipTextHotkeyAdaptPicturePictureTransparentColorColorUITypeEditorXPosStartUITypeEditorXPosEndUITypeEditorYPosStartUITypeEditorYPosEndBitPositionUserDefindedDynamicNameCaptionColorCaptionFontCaptionTextCenterColorDangerRangeColor	DialColorDialFillStyleNormalRangeColorPointerColorScaleLabelColorScaleLabelFontScaleTickColor	UnitColorUnitFontWarningRangeColor
+FrameColorEndStyle
+StartStyleStyleRangeFromToPreCodeHeaderFooterEmailAddressAcknowledgementGroupTextInvalidAttempts	ValidDaysWarningDaysGenerationsMinNumPsswd
+ServerName
+PortNumberWindowsDomain
+LineColor1
+LineColor2OperatableAreaColor
+VisibilityAcquisitionTriggerModeAcquisitionCycleConfirmationTypeLimitHighLowConstantLimitLowHighConstant	JobNumberNeedleBorderColorNeedleColorNeedleFillStyleNumberStyle
+TicksColor
+AutoSizing	FillStyleFirstGradientColorHorizontalPictureAlignmentMiddleGradientColorPictureAutoSizingSecondGradientColorTextOnVerticalPictureAlignmentEvenRowBackColorSelectBackColorSelectForeColorAlarmLowerLimitColorAlarmUpperLimitColorBarBackFillStyleBarOrientationLimit4LowerLimitColorLimit4UpperLimitColorLimit5LowerLimitColorLimit5UpperLimitColor
+ScaleColorScalePosition
+ScaleStartScalingTypeSegmentColoringToleranceLowerLimitColorToleranceUpperLimitColorTrendIndicatorColorWarningLowerLimitColorWarningUpperLimitColor
